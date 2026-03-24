@@ -2,7 +2,7 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: target-group
 
-name: tg-test-1
+name: tg-test-1-u
 
 description: 
 
@@ -10,4 +10,4 @@ conditions:
   allOf:
     - property:
         name: cs-test-1
-        operator: is-true
+        operator: is-flase
