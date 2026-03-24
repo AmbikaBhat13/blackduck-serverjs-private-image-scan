@@ -4,4 +4,4 @@ kind: flag-properties
 
 name: cs-test-1
 type: Boolean
-description: "desc added from github yaml"
+description: "desc added from bitbucket yaml"
