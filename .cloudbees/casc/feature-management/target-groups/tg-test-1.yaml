@@ -10,4 +10,4 @@ conditions:
   allOf:
     - property:
         name: cs-test-1
-        operator: is-flase
+        operator: is-true
