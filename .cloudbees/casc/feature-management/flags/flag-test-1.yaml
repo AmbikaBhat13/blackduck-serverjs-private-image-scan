@@ -2,7 +2,7 @@
 apiVersion: featuremanagement.cloudbees.io/v1alpha1
 kind: flag
 
-flag: flag-test-1
+flag: flag-test-1-u
 flagType: boolean
 description: ""
 labels:
